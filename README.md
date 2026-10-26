@@ -160,7 +160,7 @@ La validación independiente reproduce los promedios mensuales y compara las úl
 
 La instantánea del 25 de octubre de 2026 produjo 8.374 registros, 12.747 fechas diarias y 419 promedios mensuales verificados. Kafka confirmó 120 eventos y la agregación recuperó los mismos 120 eventos en 30 pares ventana-sensor. El número de ventanas depende del momento de inicio; una ejecución nueva puede distribuir los eventos en otra cantidad de ventanas.
 
-Presentación: https://canva.link/clt8urr4ft1yudp
+Presentación: https://canva.link/3wqg3ahsf9dvzbe
 
 Repositorio: https://github.com/fabianhuertas1992/tarea3-bigdata-trm-spark-kafka
 
