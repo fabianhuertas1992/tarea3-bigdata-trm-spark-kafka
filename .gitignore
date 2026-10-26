@@ -1,0 +1,13 @@
+runtime/
+__pycache__/
+*.pyc
+registros/
+evidencias/
+soporte/
+documentos/
+datos/
+resultados/
+
+.venv/
+.DS_Store
+*.zip
